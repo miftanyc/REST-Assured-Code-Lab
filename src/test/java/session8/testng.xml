@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Test Engineer/IntelliJ WorkStation/ProjectRestAssured/src/test/java/session8">
+    <classes>
+        <class name="session8.Step1_CreateUser"><methods><include name="createUser"/></methods></class>
+        <class name="session8.Step2_GetUser"><methods><include name="getUser"/></methods></class>
+        <class name="session8.Step3_UpdateUser"><methods><include name="updateUser"/></methods></class>
+        <class name="session8.Step4_DeleteUser"><methods><include name="deleteUser"/></methods></class>
+    </classes></test></suite>
